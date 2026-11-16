@@ -20,7 +20,7 @@ Este proyecto responde con datos abiertos:
 
 **Servicios de Azure y herramientas**
 
-![Servicios](evidencias/1_Servicios utilizados.png)
+![](evidencias/1_Servicios utilizados.png)
 
 
 -** Azure Data Lake Storage Gen2:** Capa raw con los archivos de origen. Acceso solo con Managed Identity
